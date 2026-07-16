@@ -58,6 +58,6 @@ git push
 ---
 ## workshop C
 
-![Task details for Workshop 3](./workshopC.png)
+![Task details for Workshop 3](./workshop3C.png)
 
 ---
